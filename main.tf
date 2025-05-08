@@ -9,6 +9,6 @@ resource "aws_instance" "myec2-1" {
   associate_public_ip_address = true
 
   tags = {
-    Name = "sandeep-vm3-new"
+    Name = "Vijender-vm3-new"
   }
 }
